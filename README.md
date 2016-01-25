@@ -21,4 +21,4 @@ Now their soulless but still living bodies wander around. Driven by a poignant h
                                             They will attack you immediately but you can not harm them because deep down they are still innocent Humans.<br>
                                             </p>
 
-                                    <h4><i>Please consider, this project is currently in alpha phase.</i></h4>
+##<i>Please consider, this project is currently in alpha phase.</i>
