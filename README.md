@@ -25,4 +25,5 @@ Now their soulless but still living bodies wander around. Driven by a poignant h
 
 
 ###Install
-<p>Just run setup.exe and install the game to a directory of your choice.</p>
+<p>1. Download the whole DEMO Directory</p>
+<p>2. Just run the setup.exe and install the game to a directory of your choice.</p>
