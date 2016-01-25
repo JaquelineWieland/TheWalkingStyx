@@ -22,3 +22,7 @@ Now their soulless but still living bodies wander around. Driven by a poignant h
                                             </p>
 
 ##<i>Please consider, this project is currently in alpha phase.</i>
+
+
+###Install
+<p>Just run setup.exe and install the game to a directory of your choice.</p>
